@@ -1,0 +1,12 @@
+div:nth-child(odd){
+    background-color: hotpink;
+    height: 50px;
+    text-align: center;
+
+}
+
+#d2{
+    background-color:yellow;
+    height: 50px;
+    text-align: center
+}
