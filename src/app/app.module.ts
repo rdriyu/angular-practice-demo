@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 import { GitBranch1Component } from './git-branch1/git-branch1.component';
 import { GitBranch2Component } from './git-branch2/git-branch2.component';
 import { GitBranch3Component } from './git-branch3/git-branch3.component';
+import { Clone1Component } from './clone1/clone1.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     GitBranch1Component,
     GitBranch2Component,
-    GitBranch3Component
+    GitBranch3Component,
+    Clone1Component
   ],
   imports: [
     BrowserModule
